@@ -1,0 +1,2 @@
+(this["webpackJsonpasyncfp-ex"]=this["webpackJsonpasyncfp-ex"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),s=n(3),i=n.n(s),r=(n(8),n(0));function o(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"Hello CodeSandbox"}),Object(r.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var a=document.getElementById("root");i.a.render(Object(r.jsx)(c.StrictMode,{children:Object(r.jsx)(o,{})}),a)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.20b679d7.chunk.js.map

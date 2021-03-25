@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://piyushbisht-97.github.io/csb-yopnh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://piyushbisht-97.github.io/csb-yopnh/static/js/main.20b679d7.chunk.js",
+    "main.js.map": "https://piyushbisht-97.github.io/csb-yopnh/static/js/main.20b679d7.chunk.js.map",
+    "runtime-main.js": "https://piyushbisht-97.github.io/csb-yopnh/static/js/runtime-main.20138c36.js",
+    "runtime-main.js.map": "https://piyushbisht-97.github.io/csb-yopnh/static/js/runtime-main.20138c36.js.map",
+    "static/js/2.2c7e65af.chunk.js": "https://piyushbisht-97.github.io/csb-yopnh/static/js/2.2c7e65af.chunk.js",
+    "static/js/2.2c7e65af.chunk.js.map": "https://piyushbisht-97.github.io/csb-yopnh/static/js/2.2c7e65af.chunk.js.map",
+    "index.html": "https://piyushbisht-97.github.io/csb-yopnh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://piyushbisht-97.github.io/csb-yopnh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2c7e65af.chunk.js.LICENSE.txt": "https://piyushbisht-97.github.io/csb-yopnh/static/js/2.2c7e65af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20138c36.js",
+    "static/js/2.2c7e65af.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.20b679d7.chunk.js"
+  ]
+}
